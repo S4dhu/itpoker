@@ -1,0 +1,2 @@
+# itpoker
+planning poker app
